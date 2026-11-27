@@ -8,7 +8,7 @@ An interactive Streamlit dashboard. It reads an Excel file of production and PVT
 - **m**: initial gas-cap to oil volume ratio
 - **G**: gas-cap gas initially in place
 
-**Live app:** `https://<your-app-name>.streamlit.app` *(add the link after deploying)*
+**Live app:** https://ahmed-mbe-dashboard.streamlit.app
 
 ---
 
